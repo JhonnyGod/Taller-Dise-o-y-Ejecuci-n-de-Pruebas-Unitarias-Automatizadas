@@ -5,6 +5,8 @@
 - Jairo Andrés Gómez Cardona
 - Juan David Rojas Narváez
 - Jhony Fernando Duque Villada
+
+
 **Fecha:** 2 de noviembre de 2026
 
 ## 1. Introducción
