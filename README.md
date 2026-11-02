@@ -1,6 +1,10 @@
 # Taller de pruebas unitarias – Calculadora de tarifas de envío
 
-**Integrantes:** [Nombres]  
+**Integrantes:** 
+- Juan Camilo Diaz Valencia
+- Jairo Andrés Gómez Cardona
+- Juan David Rojas Narváez
+- Jhony Fernando Duque Villada
 **Fecha:** 2 de noviembre de 2026
 
 ## 1. Introducción
